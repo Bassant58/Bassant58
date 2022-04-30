@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Bassant Ali</h1>
-<h3 align="center">A full stack developer</h3>
+<h3 align="center">A full stack developer PHP/Laravel</h3>
 
 - 🔭 I’m currently working on **React project**
 
